@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science and Engineering, University of California, Los Angeles (UCLA), 2021 - Present
+  * Los Angeles, CA
   * Relevant Coursework
     * Introduction to Computer Science
     * Data Structures
@@ -38,6 +39,10 @@ Projects
   * Added LiDar input to the original model to make the self-driving prediction more accurate
   * Created a Google Colab Demo containing EgoModel as well as ResNet34 and Image Segmentation part of the model
 
+Awards
+=====
+* Dean’s Honors List (Fall, 2021)
+* Louis Levoy Engineering Scholarship (Winter & Spring, 2022)
 Skills
 ======
 * Languages: Python, Java, C++
