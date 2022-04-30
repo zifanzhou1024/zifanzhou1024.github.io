@@ -37,7 +37,16 @@ Projects
   * Reproduced Learning to drive from a world on rails, a high-ranked model on CARLA Leaderboard
   * Added LiDar input to the original model to make the self-driving prediction more accurate
   * Created a Google Colab Demo containing EgoModel as well as ResNet34 and Image Segmentation part of the model
-<!-- 
+
+Skills
+======
+* Languages: Python, Java, C++
+* Developer Tools: VS Code, Eclipse, CLion, IDEA, PyCharm, Android Studio, MATLAB, Google Colab
+* Technologies/Frameworks: Linux, GitHub, PyTorch, TensorFlow
+* Machine Learning: Computer Vision, Autonomous Driving, Reinforcement Learning, Human-in-the-loop Machine Learning
+
+
+{% comment %}
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -49,22 +58,16 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-   -->
-Skills
-======
-* Languages: Python, Java, C++
-* Developer Tools: VS Code, Eclipse, CLion, IDEA, PyCharm, Android Studio, MATLAB, Google Colab
-* Technologies/Frameworks: Linux, GitHub, PyTorch, TensorFlow
-* Machine Learning: Computer Vision, Autonomous Driving, Reinforcement Learning, Human-in-the-loop Machine Learning
-* 
-<!-- 
+
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-   -->
-<!-- Talks
+  
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -78,4 +81,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams 
+{% endcomment %}
