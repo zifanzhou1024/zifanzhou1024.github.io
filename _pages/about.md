@@ -14,7 +14,7 @@ I am currently interested in researching artificial intelligence, computer visio
 
 Please feel free to contact me. 
 
-**I'm looking for summer internships in 2023!**
+**I'm open for summer internships in 2023!**
 
 <!--
 A data-driven personal website
