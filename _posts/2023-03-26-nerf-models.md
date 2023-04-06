@@ -1,10 +1,12 @@
 
 ---
-layout: post
-comments: true
-title: NeRF Models
-author: Zifan Zhou
+title: 'NeRF Models'
 date: 2023-03-26
+permalink: /posts/2013/03/nerf-models/
+tags:
+  - NeRF Models 
+  - Computer Vision
+  - Computer Graphics
 ---
 
 
