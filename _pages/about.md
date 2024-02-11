@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year undergraduate student majoring in Computer Science at the Department of Computer Science, University of California, Los Angeles. Click <a href="https://zifanzhou1024.github.io/files/ZifanZhouResume.pdf" target="_blank">here</a> to view my up-to-date CV.
+Hi! I am a third-year undergraduate student majoring in Computer Science at the Department of Computer Science, University of California, Los Angeles. Click <a href="https://zifanzhou1024.github.io/files/ZifanZhouResume.pdf" target="_blank">here</a> to view my up-to-date CV.
 
 I am currently interested in researching artificial intelligence, computer vision, and reinforcement learning. Previously, I have utilized PyTorch to complete projects involving reinforcement learning and deep learning.
 
 Please feel free to contact me. 
 
-**I'm open for summer internships in 2023!**
+**I'm open for summer internships in 2024!**
 
 <!--
 A data-driven personal website
