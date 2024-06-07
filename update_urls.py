@@ -4,21 +4,32 @@ import os
 directories = [
     '_layouts',
     'assets',
-    '_includes'
+    '_includes',
+    '_pages',
+    '_posts',
+    '_sass',
+    '_talks'
 ]
 
-# Files to scan
-files_to_scan = ['html', 'css', 'js', 'yml']
+# File extensions to scan
+files_to_scan = ['html', 'css', 'js', 'yml', 'md']
 
 # Function to update URLs
 def update_urls_in_file(file_path):
-    with open(file_path, 'r') as file:
-        content = file.read()
+    try:
+        with open(file_path, 'r') as file:
+            content = file.read()
+        
+        updated_content = content.replace('http://', 'https://')
 
-    updated_content = content.replace('http://zifanzhou.com', 'https://zifanzhou.com')
-
-    with open(file_path, 'w') as file:
-        file.write(updated_content)
+        if updated_content != content:
+            with open(file_path, 'w') as file:
+                file.write(updated_content)
+            print(f"Updated URLs in {file_path}")
+        else:
+            print(f"No URLs to update in {file_path}")
+    except Exception as e:
+        print(f"Failed to update {file_path}: {e}")
 
 def scan_directory(directory):
     for root, dirs, files in os.walk(directory):
