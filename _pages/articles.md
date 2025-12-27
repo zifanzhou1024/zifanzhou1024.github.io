@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "My Articles"
+title: "Investment Memos & Articles"
 permalink: /articles/
 author_profile: true
 ---
 
-{% include base_path %}
-{% for post in site.posts %}
+{% for post in site.articles %}
 {% include archive-single.html %}
 {% endfor %}

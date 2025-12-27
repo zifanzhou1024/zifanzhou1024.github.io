@@ -187,9 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  articles:            # <--- ADD THIS: Matches the folder name "_articles"
-    output: true       # <--- CRITICAL: Without this, it won't create HTML pages
-    permalink: /articles/:year/:month/:title/ # Optional: Custom URL structure
+  articles:               # <--- Add these lines
+    output: true          # <---
+    permalink: /:collection/:path/  # <---
 
 # Defaults
 defaults:

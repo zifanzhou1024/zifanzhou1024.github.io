@@ -2,10 +2,7 @@
 layout: single
 title: "Investment Research Memo"
 date: 2025-12-26
-permalink: /articles/market-memo/
 author_profile: true
-categories: [Research]
-tags: [SPY, Macro]
 ---
 
 # Investment Research Memo
