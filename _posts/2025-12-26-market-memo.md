@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Investment Research Memo: The '2022 Fractal' Warning"
+title: "Investment Research Memo"
 date: 2025-12-26
 permalink: /articles/market-memo/
-categories: [Research, Macro]
-tags: [SPY, QQQ, BTC]
 author_profile: true
+categories: [Research]
+tags: [SPY, Macro]
 ---
 
 # Investment Research Memo
