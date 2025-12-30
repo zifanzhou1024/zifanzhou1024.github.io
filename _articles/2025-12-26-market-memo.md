@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Investment Research Memo"
+title: "Investment Research Memo 12/26/2025"
 date: 2025-12-26
 author_profile: true
 ---
