@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Investment Memos & Articles"
 permalink: /articles/
+title: "Articles"
 author_profile: true
 ---
 
-{% for post in site.articles %}
-{% include archive-single.html %}
+{% assign sorted_articles = site.articles | sort: "date" | reverse %}
+
+{% for post in sorted_articles %}
+  {% include archive-single.html %}
 {% endfor %}
