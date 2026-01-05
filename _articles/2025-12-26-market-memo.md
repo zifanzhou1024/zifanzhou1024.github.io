@@ -95,10 +95,10 @@ Based upon **Inter-market Lead-Lag Correlations** and **Historical Rhyming (2022
 
 ### 7. Consolidated Watchlist Table
 
-| Ticker | Bias | Key Level / Signal | Notes |
-| :--- | :--- | :--- | :--- |
-| **`$SPY`** | **Bearish** | Prev. ATH + 1.5% | Watch for "Fakeout" breakout. Jan 2-4 is the historical time target for the top. |
-| **`$QQQ`** | **Bearish** | Lower High | Failing to confirm `$SPY` highs. Watch for gap fill then rollover. |
-| **`$BTC`** | **Bearish** | April Lows ($74k) | Leading indicator. Already broken trend; expect equities to play catch-up to the downside. |
-| **`$IWM`** | **Bearish** | Recent Highs | Triple RSI divergence active. |
-| **`$MSTR`** | **Bearish** | Double Top | Acts as a high-beta proxy for `$BTC` weakness. |
+| Ticker      | Bias        | Key Level / Signal | Notes                                                                                      |
+|:------------|:------------|:-------------------|:-------------------------------------------------------------------------------------------|
+| **`$SPY`**  | **Bearish** | Prev. ATH + 1.5%   | Watch for "Fakeout" breakout. Jan 2-4 is the historical time target for the top.           |
+| **`$QQQ`**  | **Bearish** | Lower High         | Failing to confirm `$SPY` highs. Watch for gap fill then rollover.                         |
+| **`$BTC`**  | **Bearish** | April Lows ($74k)  | Leading indicator. Already broken trend; expect equities to play catch-up to the downside. |
+| **`$IWM`**  | **Bearish** | Recent Highs       | Triple RSI divergence active.                                                              |
+| **`$MSTR`** | **Bearish** | Double Top         | Acts as a high-beta proxy for `$BTC` weakness.                                             |

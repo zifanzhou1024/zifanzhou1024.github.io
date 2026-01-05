@@ -101,10 +101,10 @@ author_profile: true
 
 ### 7. Consolidated Watchlist Table
 
-| Ticker | Bias | Key Level / Signal | Notes |
-| :--- | :--- | :--- | :--- |
-| **`$SPX`** | **Bearish** | ~7,000 / Gap Fill | Watch for "Head Fake" peak in next 7 sessions. |
-| **`$RUT`** | **Bearish** | 10/20 MA (Lost) | Leading the crash. Triple divergence active. |
-| **`$NDX`** | **Bearish** | Oct 29 High | Lower High set. Tech distribution ongoing. |
-| **`$US10Y`** | **Bullish** | 50 MA | Yield breakout = Equity crash. |
-| **`$VIX`** | **Bullish** | 50/200 MA | Bullish divergence forming; volatility to spike. |
+| Ticker       | Bias        | Key Level / Signal | Notes                                            |
+|:-------------|:------------|:-------------------|:-------------------------------------------------|
+| **`$SPX`**   | **Bearish** | ~7,000 / Gap Fill  | Watch for "Head Fake" peak in next 7 sessions.   |
+| **`$RUT`**   | **Bearish** | 10/20 MA (Lost)    | Leading the crash. Triple divergence active.     |
+| **`$NDX`**   | **Bearish** | Oct 29 High        | Lower High set. Tech distribution ongoing.       |
+| **`$US10Y`** | **Bullish** | 50 MA              | Yield breakout = Equity crash.                   |
+| **`$VIX`**   | **Bullish** | 50/200 MA          | Bullish divergence forming; volatility to spike. |

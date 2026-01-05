@@ -91,10 +91,10 @@ author_profile: true
 
 ### 7. Consolidated Watchlist Table
 
-| Ticker | Bias | Key Level / Signal | Notes |
-| :--- | :--- | :--- | :--- |
-| **`$SPX`** | **Bearish** | Prev. High + 1.5% | Watch for the "Fakeout" to complete in next 8 sessions. |
-| **`$NDX`** | **Bearish** | Lower High | Diverging from `$SPX`. Watch for gap fill failure. |
-| **`$BTC`** | **Bearish** | 200-Week MA | Leading indicator. "Next leg down" is active. |
-| **`$NVDA`** | **Bearish** | H&S Neckline | Tech distribution proxy. |
-| **`$VIX`** | **Bullish** | 50-Period MA | Needs to hold above 50MA/200MA to confirm crash. |
+| Ticker      | Bias        | Key Level / Signal | Notes                                                   |
+|:------------|:------------|:-------------------|:--------------------------------------------------------|
+| **`$SPX`**  | **Bearish** | Prev. High + 1.5%  | Watch for the "Fakeout" to complete in next 8 sessions. |
+| **`$NDX`**  | **Bearish** | Lower High         | Diverging from `$SPX`. Watch for gap fill failure.      |
+| **`$BTC`**  | **Bearish** | 200-Week MA        | Leading indicator. "Next leg down" is active.           |
+| **`$NVDA`** | **Bearish** | H&S Neckline       | Tech distribution proxy.                                |
+| **`$VIX`**  | **Bullish** | 50-Period MA       | Needs to hold above 50MA/200MA to confirm crash.        |

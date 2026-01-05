@@ -92,9 +92,9 @@ Based upon **Oscillator Divergence Fractals** and **Inter-market Lead-Lag Correl
 
 ### 7. Consolidated Watchlist Table
 
-| Ticker | Bias | Key Level / Signal | Notes |
-| :--- | :--- | :--- | :--- |
-| **`$SPX`** | **Bearish** | Breakout High (Current) | Watch for "Look above and fail" in next 9 sessions. Target >20% drop. |
-| **`$NDX`** | **Bearish** | Oct 29th Peak | Diverging from `$SPX` (Relative Weakness). |
-| **`$BTC`** | **Bearish** | April Lows | Leading indicator. Expecting break of support to trigger equity sell-off. |
-| **`$USDJPY`** | **Watch** | BoJ Rate Decisions | Proxy for Carry Trade unwind stress. |
+| Ticker        | Bias        | Key Level / Signal      | Notes                                                                     |
+|:--------------|:------------|:------------------------|:--------------------------------------------------------------------------|
+| **`$SPX`**    | **Bearish** | Breakout High (Current) | Watch for "Look above and fail" in next 9 sessions. Target >20% drop.     |
+| **`$NDX`**    | **Bearish** | Oct 29th Peak           | Diverging from `$SPX` (Relative Weakness).                                |
+| **`$BTC`**    | **Bearish** | April Lows              | Leading indicator. Expecting break of support to trigger equity sell-off. |
+| **`$USDJPY`** | **Watch**   | BoJ Rate Decisions      | Proxy for Carry Trade unwind stress.                                      |

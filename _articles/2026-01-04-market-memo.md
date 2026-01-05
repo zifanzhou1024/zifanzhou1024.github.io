@@ -102,11 +102,11 @@ author_profile: true
 
 ### 7. Consolidated Watchlist Table
 
-| Ticker | Bias | Key Level / Signal | Notes |
-| :--- | :--- | :--- | :--- |
-| **`$RUT`** | **Bearish** | 10-Week / 20-Week MA | Triple Negative Divergence; The "Tell." |
-| **`$SPX`** | **Neutral/Bear** | Monday's Gap | Watch for the "Bull Trap" rally to short. |
-| **`$NDX`** | **Bearish** | Lower High | Adam & Eve pattern; Lagging lead indices. |
-| **`$BTC`** | **Bearish** | April Lows | Leading liquidity indicator; expect breakdown first. |
-| **`$DJI`** | **Bearish** | 2009 Trendline | Rising Wedge + Dow Theory Signal. |
-| **`$NVDA`** | **Bearish** | Weekly Neckline | Head & Shoulders pattern; Topping tail. |
+| Ticker      | Bias             | Key Level / Signal   | Notes                                                |
+|:------------|:-----------------|:---------------------|:-----------------------------------------------------|
+| **`$RUT`**  | **Bearish**      | 10-Week / 20-Week MA | Triple Negative Divergence; The "Tell."              |
+| **`$SPX`**  | **Neutral/Bear** | Monday's Gap         | Watch for the "Bull Trap" rally to short.            |
+| **`$NDX`**  | **Bearish**      | Lower High           | Adam & Eve pattern; Lagging lead indices.            |
+| **`$BTC`**  | **Bearish**      | April Lows           | Leading liquidity indicator; expect breakdown first. |
+| **`$DJI`**  | **Bearish**      | 2009 Trendline       | Rising Wedge + Dow Theory Signal.                    |
+| **`$NVDA`** | **Bearish**      | Weekly Neckline      | Head & Shoulders pattern; Topping tail.              |
