@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Investment Research Memo 01/08/2026"
-date: 2026-01-08
+title: "Investment Research Memo 01/07/2026"
+date: 2026-01-07
 author_profile: true
 ---
 
