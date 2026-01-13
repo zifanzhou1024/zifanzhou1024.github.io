@@ -17,8 +17,8 @@
 ### 2. The 'Alpha' Logic (The Analyst's Edge)
 * **The "Catch-Up" Trade:** The analyst views `$BTC` (Bitcoin) as the leading liquidity indicator. Bitcoin has already confirmed a bear market and "second leg lower." The thesis is that `$SPX` and `$NDX` are living on borrowed time and must mechanically re-price lower to match crypto's liquidity contraction.
 * **Historical Lag Analysis (Dow Theory):**
-    * The analyst refutes the bullish "confirmation" of `^DJT` making new highs.
-    * **The "Death Zone" Lag:** Historical crashes occur shortly after `$DJI` and `^DJT` diverge.
+    * The analyst refutes the bullish "confirmation" of `$DJTA` making new highs.
+    * **The "Death Zone" Lag:** Historical crashes occur shortly after `$DJI` and `$DJTA` diverge.
     * **1987 Crash:** 7-day lag.
     * **2018 Selloff:** 8-day lag.
     * **1973 Crash:** 23-day lag.
@@ -29,7 +29,7 @@
 ### 3. Macro & Fundamental Catalyst Watch
 * **Fed Governance Crisis (New Development):**
     * **Event:** Chair Powell is reportedly under **criminal investigation** by the DOJ for potentially lying to Congress regarding the Federal Reserve building renovation.
-    * **The Numbers:** Project cost ballooned from **$1.9 Billion** (original) to **$2.5–$3.0 Billion**. Over budget by at least $600M.
+    * **The Numbers:** Project cost ballooned from **\$1.9 Billion** (original) to **\$2.5–\$3.0 Billion**. Over budget by at least $600M.
     * **Market Impact:** While markets initially shrugged it off, attacks on Fed independence create structural uncertainty. Powell exits in May regardless.
 * **Inflation & Data:**
     * **CPI (Tue Jan 13, Pre-market):** Expected Headline 2.7%; Core 2.8%. *Risk:* A hot print spikes yields immediately.
@@ -85,7 +85,7 @@
 | `$US10Y` | Bull | **Pattern:** Inv. Head & Shoulders           | Breakout triggers the "Jamie Dimon Bond Crack."        |
 | `$BTC`   | Bear | **Support:** April Lows                      | If `$BTC` loses April lows, `$SPX` crashes soon after. |
 | `$VIX`   | Bull | **Signal:** Green Close                      | `$VIX` green on a green market day = danger.           |
-| `^DJT`   | Neut | **Signal:** Divergence                       | Did not confirm Dow's new high on the specific day.    |
+| `$DJTA`  | Neut | **Signal:** Divergence                       | Did not confirm Dow's new high on the specific day.    |
 
 ---
 
