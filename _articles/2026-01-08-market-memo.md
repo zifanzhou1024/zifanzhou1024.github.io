@@ -1,129 +1,141 @@
 ---
 layout: single
-title: "Investment Research Memo 01/08/2026"
-date: 2026-01-08
+title: "Investment Research Memo 01/12/2026"
+date: 2026-01-12
 author_profile: true
 ---
 
 # Investment Research Memo
 **To:** Investment Committee
 **From:** Senior Desk Analyst
-**Date:** January 8, 2026
-**Subject:** The "Super Friday" Catalyst Stack, Repo Stress & The 2022 Fractal Confirmation
+**Date:** January 12, 2026
+**Subject:** FED CRIMINAL PROBE, IRAN REVOLUTION & DOW THEORY DIVERGENCES
 
 ---
 
 ### 1. Executive Summary
-* **Market Bias:** **STRONGLY BEARISH** (Top likely in; Imminent Volatility Event).
-* **The Core Thesis:** The S&P 500 (`$SPX`) has likely peaked, forming a **Spinning Top** (indecision) candle today after hitting the Rising Wedge resistance. This technical exhaustion coincides with a "Binary Event" tomorrow morning: The Supreme Court ruling on Tariffs (10:00 AM ET) and the Jobs Report. The analyst believes the market is setting up for a "Financial Chaos" scenario driven by a potential tariff ruling against the administration, which would trigger deficit concerns and spike yields.
-* **Key Risk/Warning:** **Supreme Court Ruling (10:00 AM ET Tomorrow).** Betting markets (Polymarket) currently assign a **77% chance** that the Supreme Court rules the President's tariffs unconstitutional. This would potentially force the government to refund billions in collected tariffs (approx $200B), exploding the deficit and acting as an immediate crash catalyst.
+* **Market Bias:** **BEARISH / HIGH ALERT**
+* **The Core Thesis:** The market is facing a "Triple Threat" of catalysts this week (CPI, PPI, Supreme Court Tariff Ruling) while displaying classic late-cycle technical divergences. The analyst believes equities are "lagging" the Bitcoin bear market and will soon "catch up" to the downside, triggered by a potential spike in yields and a banking crisis stemming from Commercial Real Estate (CRE).
+* **Key Risk/Warning:** **Systemic "Crack" in Bonds.** The analyst cites "Jamie Dimon's crack in the bond market" as the mechanism that will break CRE refinancing and spill over into a broader Banking Crisis.
 
 ---
 
 ### 2. The 'Alpha' Logic (The Speaker's Unique Angle)
-**Framework:** **Macro-Triggered Technical Breakdown & The "2022 Time-Loop."**
+**Framework:** **The "Catch-Up" Trade & Historical Lag Analysis.**
 
-* **The "Supreme Court" Yield Shock:**
-    * **The Mechanism:** The tariffs are challenged under the **International Emergency Economic Powers Act (IEEPA)**. If ruled unconstitutional, the administration may be forced to issue refunds, spiking the deficit.
-    * **Historical Context:** The speaker contrasts this with Nixon’s 1971 tariffs, which were enacted under the *Trading with the Enemy Act* (before IEEPA existed). While the administration has "Plan B" options, an adverse ruling creates immediate financial shock.
-* **The "Repo Market" Distress Signal:**
-    * **Hidden Stress:** The Fed is actively intervening in **Repo Markets** via the Standing Repo Facility (SRF) and buying short-term T-bills to prevent rate spikes. The speaker views this as a "huge red flag" of systemic liquidity stress, similar to pre-crisis periods.
-* **The 2022 Fractal Repeat:**
-    * **The Pattern:** In Jan 2022, `$SPX` broke out, pulled back, made a marginal new high (+1.5% above prior peak), and then collapsed.
-    * **Current Status:** `$SPX` is currently **0.65% above** the post-Christmas peak, stalling exactly at the **Rising Wedge** trendline. This "Marginal New High" is identified as a bull trap.
+* **The "Bitcoin" Liquidity Gauge:**
+    * **The Mechanism:** The analyst views `$BTC` as the leading liquidity indicator. Bitcoin has already confirmed a bear market and "second leg lower."
+    * **Thesis:** `$SPX` and `$NDX` are living on borrowed time and must mechanically re-price lower to match crypto's liquidity contraction.
+* **Dow Theory Divergence:**
+    * **The Lag:** The analyst refutes the bullish "confirmation" of `$^DJT` making new highs. Historical crashes often occur shortly after `$DJI` and `$^DJT` diverge.
+    * **Historical Context:** In 1987, the divergence lasted **7 trading days** before the crash. In 2018, it was **8 days**.
+    * **Current Status:** We have a **1-day divergence** (Dow made a new high, Transports did not on that specific day). This small window is historically sufficient to precede a crash.
 
 ---
 
 ### 3. Technical Analysis & Trade Setups
 
-#### **`$SPX` (S&P 500)**
-* **Price Action:** Closed flat (+0.50 pts). Formed a **Spinning Top** candlestick (Indecision) at the highs.
-* **The Setup:** **Rising Wedge / Triple Negative Divergence.**
+#### **`$SPX` (S&P 500) & `$NDX` (Nasdaq 100)**
+* **Price Action:** `$SPX` made a higher high, but `$NDX` remains below its Oct 29th peak (Inter-index divergence).
+* **The Setup:** **Rising Wedge / Multiple Point Divergence.**
 *
 
-[Image of spinning top candlestick pattern]
+
+
+[Image of rising wedge chart pattern]
+
 
 * **Analysis:**
-    * Price tagged the "Pink Trendline" (Upper Boundary of Rising Wedge) yesterday and stalled.
-    * **Triple Divergence:** RSI, MACD, and Awesome Oscillator are all diverging on Daily/Weekly timeframes.
-    * Needs to break the **10-Day Moving Average** to confirm the top.
-* **Verdict:** **Short.** The Spinning Top at a new high is a classic reversal setup.
+    * **Rising Wedge** formation on Daily & 60-min charts.
+    * **Gap and Trap:** Recent overnight gaps were filled intraday, suggesting distribution.
+    * Multiple point divergences on RSI, MACD, and Price Oscillator.
+* **Verdict:** **Short** on breakdown of the wedge trendline.
 
-#### **`$NDX` (Nasdaq 100)**
-* **Price Action:** Down -0.57% (-147 pts).
-* **The Setup:** **Shooting Star Confirmation.**
+#### **`$DJI` (Dow Jones Industrial Average)**
+* **Price Action:** Printed a new high today.
+* **The Setup:** **Hanging Man Candlestick.**
 *
 
-[Image of shooting star candlestick pattern]
+
+
+[Image of hanging man candlestick pattern]
+
 
 * **Analysis:**
-    * Yesterday's **Shooting Star** (Bearish Reversal) was **confirmed** by today's red close.
-    * Remains below the October 29th High (Lower Highs).
-    * Diverging significantly from `$SPX` and `$DJI`.
-* **Verdict:** **Aggressive Short.** Signals are already bearish.
+    * The new high formed a **Hanging Man** candle (bearish reversal signal).
+    * Failed to be confirmed by `$^DJT` on the day (Short-term Dow Theory Divergence).
+* **Verdict:** **Bearish Reversal** if followed by a lower close.
 
-#### **`$US10Y` & `$US30Y` (Treasury Yields)**
-* **The Setup:** **Inverse Head & Shoulders (Breakout).**
+#### **`$NVDA` (Nvidia)**
+* **The Setup:** **Head & Shoulders (Weekly).**
 *
 
-[Image of inverse head and shoulders chart pattern]
+
+
+[Image of head and shoulders chart pattern]
+
 
 * **Analysis:**
-    * 10-Year Yield jumped 1% today.
-    * Both 10Y and 30Y have broken out of inverse H&S patterns and back-tested support.
-    * **Thesis:** Yields bottom *before* stocks top. The yield bottom is in.
+    * Struggling at the 10-period SMA.
+    * Potential Head and Shoulders top developing on the weekly timeframe.
+    * **Downside Target:** If it breaks the 50-day SMA/Neckline, the target is the **200-week moving average**.
+* **Verdict:** **High Alert.**
+
+#### **`$US10Y` (10-Year Treasury Yield)**
+* **The Setup:** **Inverse Head & Shoulders.**
+* **Analysis:** The analyst projects yields to break out to new highs, driven by inflation re-acceleration or tariff uncertainty. Rising yields are the "kryptonite" for current valuations.
 * **Verdict:** **Bullish Yields / Bearish Bonds.**
-
-#### **`$BTC` (Bitcoin)**
-* **The Setup:** **Bear Flag / Head & Shoulders.**
-* **Analysis:** Down 36%. Currently in a counter-trend bounce/consolidation. Speaker expects the "Next Leg Down" to begin, targeting the **April Lows**.
-* **Verdict:** **Bearish.**
 
 ---
 
 ### 4. Macro & Fundamental Drivers
-**The "Super Friday" Docket (Jan 9):**
+**The Catalyst Stack (Jan 13-14):**
 
-1.  **Pre-Market:** **Jobs Report (NFP).**
-    * **Consensus:** +73,000.
-    * **Trend:** "Rapid Deterioration." Oct was -105k. Nov was +64k (Feeble).
-    * **Private Payrolls (ADP):** Came in at +41k (Miss vs 48k exp). Previous month revised to -29k.
-    * *Thesis:* A negative print or downward revision confirms the recession has started.
+1.  **Fed Governance Crisis:**
+    * **Event:** Chair Powell reportedly under **criminal investigation** by DOJ regarding Fed building renovation.
+    * **Details:** Project cost ballooned from $1.9B to $2.5–$3.0B ($600M+ over budget).
+    * *Thesis:* Attacks on Fed independence introduce structural volatility.
 
-2.  **10:00 AM ET:** **Supreme Court Ruling (Trump Tariffs).**
-    * **Consensus (Polymarket):** **77% Chance Unconstitutional** vs 23% Constitutional.
-    * *Thesis:* A ruling against the admin creates "Financial Chaos" due to refund liabilities and deficit expansion.
+2.  **Inflation Data (Tue/Wed):**
+    * **CPI (Jan 13):** Expected Headline 2.7%; Core 2.8%.
+    * *Risk:* A "hot" print spikes yields immediately.
 
-3.  **Next Week (Jan 13-14):** **Inflation Data.**
-    * **CPI/PPI:** Expected to tick higher (Jan 13).
-    * *Fed Dilemma:* Rising inflation + Crashing economy = Fed forced to do "Jumbo Cuts" (2008 playbook).
+3.  **Supreme Court Ruling (Jan 14):**
+    * **Event:** Potential ruling on constitutionality of Trump's tariffs.
+    * *Risk:* Uncertainty or a ruling that forces alternative revenue avenues could rattle markets.
+
+4.  **Geopolitics (Iran Revolution):**
+    * **Event:** Protests in Iran; 50% inflation; Regime change possible.
+    * **Policy:** Trump threatens **25% Tariff** on any nation doing business with Iran.
 
 ---
 
 ### 5. Scenarios & Invalidations
 * **Bear Trigger (Confirmation):**
-    * **Macro:** Supreme Court rules against tariffs OR Jobs Report is negative.
-    * **Technical:** `$SPX` closes below the **10-Day MA** and takes out Wednesday's low. `$NDX` breaks the Momentum Cloud.
+    * **Technical:** `$SPX` breaks the lower trendline of the Rising Wedge.
+    * **Macro:** A "Hot" CPI print or adverse Supreme Court ruling spikes `$US10Y` (confirming Inv. H&S).
+    * **Crypto:** `$BTC` breaks April lows.
 * **Bull Trigger (Invalidation):**
-    * **Technical:** `$SPX` pushes meaningfully above the Rising Wedge trendline (requires >1% move) and invalidates the Spinning Top.
-    * **Macro:** Supreme Court upholds tariffs AND Jobs Report is "Goldilocks" (not too hot, not too cold), soothing deficit fears.
+    * **Technical:** `$NDX` closes convincingly above the Oct 29th peak, erasing the inter-market divergence.
+    * **Macro:** Inflation data comes in cooler than expected, allowing yields to fade.
 
 ---
 
 ### 6. Glossary of Financial Jargon
-* **Spinning Top:** A candlestick with a small body and long wicks on both sides, signaling a stalemate between buyers and sellers. Often precedes a reversal when found at highs.
-* **Shooting Star:** A bearish candlestick with a long upper wick and small body near the lows, indicating buyers pushed price up but sellers took control by close.
-* **IEEPA (International Emergency Economic Powers Act):** A federal law authorizing the President to regulate international commerce after declaring a national emergency. The legal basis for the current disputed tariffs.
-* **Repo Market (Repurchase Agreements):** A short-term borrowing market for dealers in government securities. Fed intervention here implies banks are running out of cash reserves (liquidity stress).
+* **Dow Theory:** A trading approach asserting that major market trends must be confirmed by both the Industrial (`$DJI`) and Transport (`$^DJT`) averages moving in the same direction.
+* **Hanging Man:** A bearish candlestick pattern formed at the end of an uptrend, characterized by a small body and long lower shadow, indicating sellers are testing buyers.
+* **Gap and Trap:** A scenario where price gaps up (or down) at the open, enticing traders to enter, before reversing direction and trapping those positions.
+* **Rising Wedge:** A bearish chart pattern formed by converging trendlines where the lows are rising faster than the highs.
 
 ---
 
 ### 7. Consolidated Watchlist Table
 
-| Ticker       | Bias        | Key Level to Watch | Notes                                                |
-|:-------------|:------------|:-------------------|:-----------------------------------------------------|
-| **`$SPX`**   | **Bearish** | 10-Day MA          | **Spinning Top** at resistance; Watch for breakdown. |
-| **`$NDX`**   | **Bearish** | Oct 29 High        | **Shooting Star** confirmed; Relative Weakness.      |
-| **`$US10Y`** | **Bullish** | Neckline Support   | Breakout active; SC ruling could spike this.         |
-| **`$BTC`**   | **Bearish** | April Lows         | Leading indicator; likely to break support first.    |
-| **`$VIX`**   | **Bullish** | 50-Day MA          | Rising alongside the market (Divergence warning).    |
+| Ticker       | Bias        | Key Level to Watch    | Notes                                               |
+|:-------------|:------------|:----------------------|:----------------------------------------------------|
+| **`$SPX`**   | **Bearish** | Wedge Lower Trendline | Watch for break of wedge support; "Gap and Trap".   |
+| **`$NDX`**   | **Bearish** | Oct 29 Peak           | Lagging `$SPX` significantly (Bearish Divergence).  |
+| **`$US10Y`** | **Bullish** | Neckline of Inv. H&S  | Breakout threatens CRE and Banks.                   |
+| **`$BTC`**   | **Bearish** | April Lows            | Leading indicator for risk-off flows.               |
+| **`$VIX`**   | **Bullish** | Green Close           | Diverged (rose 4.35%) while equities were green.    |
+| **`$^DJT`**  | **Neutral** | Divergence            | Did not confirm Dow's new high on the specific day. |
