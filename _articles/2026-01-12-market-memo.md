@@ -15,10 +15,10 @@
 ---
 
 ### 2. The 'Alpha' Logic (The Analyst's Edge)
-* **The "Catch-Up" Trade:** The analyst views $BTC (Bitcoin) as the leading liquidity indicator. Bitcoin has already confirmed a bear market and "second leg lower." The thesis is that $SPX and $NDX are living on borrowed time and must mechanically re-price lower to match crypto's liquidity contraction.
+* **The "Catch-Up" Trade:** The analyst views `$BTC` (Bitcoin) as the leading liquidity indicator. Bitcoin has already confirmed a bear market and "second leg lower." The thesis is that `$SPX` and `$NDX` are living on borrowed time and must mechanically re-price lower to match crypto's liquidity contraction.
 * **Historical Lag Analysis (Dow Theory):**
-    * The analyst refutes the bullish "confirmation" of $TRAN making new highs.
-    * **The "Death Zone" Lag:** Historical crashes occur shortly after $DJI and $TRAN diverge.
+    * The analyst refutes the bullish "confirmation" of `^DJT` making new highs.
+    * **The "Death Zone" Lag:** Historical crashes occur shortly after `$DJI` and `^DJT` diverge.
     * **1987 Crash:** 7-day lag.
     * **2018 Selloff:** 8-day lag.
     * **1973 Crash:** 23-day lag.
@@ -46,51 +46,51 @@
 
 ### 4. Technical Analysis & Specific Setups
 
-#### **$SPX (S&P 500) & $NDX (Nasdaq 100)**
+#### `$SPX` (S&P 500) & `$NDX` (Nasdaq 100)
 * **Pattern:** **Rising Wedge** on Daily & 60-min charts.
 * **Divergence:** "Multiple Point Divergences" on RSI, MACD, and Price Oscillator.
-* **Inter-Market Divergence:** $SPX made a higher high; $NDX remains below its Oct 29th peak (reminiscent of the 2022 top).
+* **Inter-Market Divergence:** `$SPX` made a higher high; `$NDX` remains below its Oct 29th peak (reminiscent of the 2022 top).
 * **Intraday Action:** Market gapped down overnight, filled the gap ("Gap and Trap"), and closed green, but structural weakness remains.
 * **Verdict:** **Short** on breakdown of wedge support.
 
-#### **$NVDA (Nvidia)**
+#### `$NVDA` (Nvidia)
 * **Price Action:** Struggling at the **10-day SMA**.
 * **Structure:** Potential **Head and Shoulders** on the Weekly timeframe.
 * **Downside Target:** If it breaks the 50-day SMA/Neckline, the target is the **200-week moving average**.
 * **Verdict:** **High Alert** for distribution.
 
-#### **$US10Y (10-Year Yield)**
+#### `$US10Y` (10-Year Yield)
 * **Pattern:** **Inverse Head and Shoulders**.
 * **Implication:** Yields are projected to break out to new highs.
 * **Correlation:** Rising yields are the "kryptonite" for the current equity valuation (negative correlation).
 * **Verdict:** **Bullish Yields (Bearish Bonds)**.
 
-#### **$VIX (Volatility Index)**
-* **The Anomaly:** $VIX was **UP 4.35%** on a day when the S&P 500 closed POSITIVE.
+#### `$VIX` (Volatility Index)
+* **The Anomaly:** `$VIX` was **UP 4.35%** on a day when the S&P 500 closed POSITIVE.
 * **Signal:** This is a classic "volatility divergence," indicating sophisticated players are buying protection (puts) despite the green price action.
 
-#### **Financials ($XLF / Banks)**
+#### Financials (`$XLF` / Banks)
 * **Headwind:** Trump announced a **10% Interest Rate Cap** on credit cards.
-* **Reaction:** $AXP, $COF, and issuers sold off sharply.
+* **Reaction:** `$AXP`, `$COF`, and issuers sold off sharply.
 * **Systemic Risk:** Rising yields + Commercial Real Estate (CRE) defaults = Potential Banking Crisis.
 
 ---
 
 ### 5. Consolidated Watchlist & Levels
 
-| Ticker | Bias | Key Levels / Triggers | Analyst Notes |
-| :--- | :--- | :--- | :--- |
-| **$SPX** | Bear | **Support:** Lower trendline of Rising Wedge | Watch for "Gap and Trap" behavior. |
-| **$NDX** | Bear | **Res:** Oct 29 Peak | Lagging SPX significantly (Bearish Divergence). |
-| **$US10Y** | Bull | **Pattern:** Inv. Head & Shoulders | Breakout triggers the "Jamie Dimon Bond Crack." |
-| **$BTC** | Bear | **Support:** April Lows | If BTC loses April lows, SPX crashes soon after. |
-| **$VIX** | Bull | **Signal:** Green Close | VIX green on a green market day = danger. |
-| **$TRAN** | Neut | **Signal:** Divergence | Did not confirm Dow's new high on the specific day. |
+| Ticker   | Bias | Key Levels / Triggers                        | Analyst Notes                                          |
+|:---------|:-----|:---------------------------------------------|:-------------------------------------------------------|
+| `$SPX`   | Bear | **Support:** Lower trendline of Rising Wedge | Watch for "Gap and Trap" behavior.                     |
+| `$NDX`   | Bear | **Res:** Oct 29 Peak                         | Lagging `$SPX` significantly (Bearish Divergence).     |
+| `$US10Y` | Bull | **Pattern:** Inv. Head & Shoulders           | Breakout triggers the "Jamie Dimon Bond Crack."        |
+| `$BTC`   | Bear | **Support:** April Lows                      | If `$BTC` loses April lows, `$SPX` crashes soon after. |
+| `$VIX`   | Bull | **Signal:** Green Close                      | `$VIX` green on a green market day = danger.           |
+| `^DJT`   | Neut | **Signal:** Divergence                       | Did not confirm Dow's new high on the specific day.    |
 
 ---
 
 ### 6. Actionable Trade Idea
-**Strategy:** **Bearish Put Spread on $NDX (Nasdaq)**
-* **Rationale:** The Nasdaq is the "laggard" (has not made a new high) and is most sensitive to the projected spike in Yields ($US10Y).
+**Strategy:** **Bearish Put Spread on `$NDX` (Nasdaq)**
+* **Rationale:** The Nasdaq is the "laggard" (has not made a new high) and is most sensitive to the projected spike in Yields (`$US10Y`).
 * **Trigger:** Entry upon a close below the **20-day Moving Average** or a "Hot" CPI print.
 * **Target:** Gap fill from previous weeks.

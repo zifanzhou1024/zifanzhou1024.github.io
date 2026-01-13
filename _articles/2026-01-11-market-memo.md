@@ -1,14 +1,14 @@
 ---
 layout: single
-title: "Investment Research Memo 01/12/2026"
-date: 2026-01-12
+title: "Investment Research Memo 01/11/2026"
+date: 2026-01-11
 author_profile: true
 ---
 
 # Investment Research Memo
 **To:** Investment Committee
 **From:** Senior Quantitative Analyst
-**Date:** January 12, 2026
+**Date:** January 11, 2026
 **Subject:** REVISED: INTER-MARKET DIVERGENCE & THE "CATCH-UP" CRASH SEQUENCE
 
 ---
