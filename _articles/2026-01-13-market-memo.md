@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Investment Research Memo 01/13/2026"
+date: 2026-01-13
+author_profile: true
+---
+
 # Investment Research Memo
 
 **To:** Investment Committee & Trading Desk

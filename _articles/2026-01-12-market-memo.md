@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Investment Research Memo 01/12/2026"
+date: 2026-01-12
+author_profile: true
+---
+
 # Investment Research Memo
 
 **To:** Portfolio Management Team
