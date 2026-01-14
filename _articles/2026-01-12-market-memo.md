@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 # Investment Research Memo
-
 **To:** Portfolio Management Team
 **From:** Senior Desk Analyst
 **Date:** January 12, 2026

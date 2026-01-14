@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 # Investment Research Memo
-
 **To:** Investment Committee & Trading Desk
 **From:** Senior Quantitative Analyst
 **Date:** January 13, 2026
