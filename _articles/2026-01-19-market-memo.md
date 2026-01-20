@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Investment Research Memo
-**Date:** January 2026
+**Date:** January 20, 2026
 **Subject:** Grand Super Cycle Top & Macro Recession Confirmation
 
 ## 1. Executive Summary

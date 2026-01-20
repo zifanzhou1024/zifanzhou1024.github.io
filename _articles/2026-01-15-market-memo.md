@@ -1,5 +1,12 @@
+---
+layout: single
+title: "Investment Research Memo 01/15/2026"
+date: 2026-01-15
+author_profile: true
+---
+
 # Investment Research Memo: Market Exhaustion & The Bitcoin Fractal
-**Date:** January 20, 2026
+**Date:** January 15, 2026
 **Subject:** Technical Divergences, Sector Wedges & The "Overthrow" Risk
 
 ### 1. Executive Summary

@@ -9,7 +9,7 @@ author_profile: true
 
 **TO:** Investment Committee & Proprietary Trading Desk
 **FROM:** Senior Portfolio Manager
-**DATE:** January 20, 2026
+**DATE:** January 16, 2026
 **SUBJECT:** HIGH CONVICTION SHORT SETUP - CONFLUENCE OF YIELDS, CRYPTO FRACTALS, & MACRO RISKS
 
 ---
