@@ -4,6 +4,7 @@ title: "Investment Research Memo 01/23/2026"
 date: 2026-01-23
 author_profile: true
 ---
+
 # Investment Research Memo: Pre-FOMC & Earnings Week Outlook
 **Date:** January 23, 2026
 **Subject:** Market Reversal Signals, Yield Breakouts, Private Credit Risks & Sector Divergences
