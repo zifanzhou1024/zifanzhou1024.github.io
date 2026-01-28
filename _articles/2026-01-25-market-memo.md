@@ -91,14 +91,14 @@ The speaker’s analysis relies on **Inter-market Lead-Lag Fractals** and **Dive
 
 ### 7. Consolidated Watchlist Table
 
-| Ticker | Bias | Key Level to Watch | Notes |
-| :--- | :--- | :--- | :--- |
-| `$SPX` | Bear | Dec 17 Lows | Must hold support zone or Double Top confirms. |
-| `$NDX` | Bear | 50/200 MA (60min) | Watch for imminent "Death Cross" on hourly chart. |
-| `$RUT` | Bear | Weekly High | Gravestone Doji signal needs bearish follow-through. |
-| `$VIX` | Bull | 50 MA | Needs to reclaim 50MA to confirm volatility spike. |
-| `$HGX` | Bear | 2025 Highs | Housing index diverging from equities (Recession signal). |
-| `$DJI` | Bear | Transports Divergence | Dow Theory non-confirmation with Transport Index. |
+| Ticker | Bias | Key Level to Watch    | Notes                                                     |
+|:-------|:-----|:----------------------|:----------------------------------------------------------|
+| `$SPX` | Bear | Dec 17 Lows           | Must hold support zone or Double Top confirms.            |
+| `$NDX` | Bear | 50/200 MA (60min)     | Watch for imminent "Death Cross" on hourly chart.         |
+| `$RUT` | Bear | Weekly High           | Gravestone Doji signal needs bearish follow-through.      |
+| `$VIX` | Bull | 50 MA                 | Needs to reclaim 50MA to confirm volatility spike.        |
+| `$HGX` | Bear | 2025 Highs            | Housing index diverging from equities (Recession signal). |
+| `$DJI` | Bear | Transports Divergence | Dow Theory non-confirmation with Transport Index.         |
 
 ---
 
