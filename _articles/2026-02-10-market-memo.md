@@ -5,7 +5,7 @@ date: 2026-02-10
 author_profile: true
 ---
 
-# Investment Research Memo (Expanded & Enhanced)
+# Investment Research Memo 
 
 **To:** Investment Committee
 **From:** Portfolio Management Desk
