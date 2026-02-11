@@ -9,7 +9,7 @@ author_profile: true
 
 **To:** Investment Committee
 **From:** Portfolio Management Desk
-**Date:** February 10, 2026 (Implied per context)
+**Date:** February 10, 2026 
 **Subject:** TACTICAL ALERT: Major divergences signal imminent equity distribution; `$BTC` acting as leading indicator.
 
 ---
@@ -145,11 +145,11 @@ The analysis relies on a **Lead-Lag Liquidity Cascade** framework combined with 
 
 ### 8. Consolidated Watchlist Table
 
-| Ticker | Bias | Key Level to Watch | Notes |
-| :--- | :--- | :--- | :--- |
-| **`$DJI`** | **Bearish** | Trendline Resistance | "Fake" breakout; Diverging from Transports. |
-| **`$SPX`** | **Bearish** | Jan 29 High (Resistance) | Double Top potential; VIX divergence active. |
-| **`$NDX`** | **Bearish** | 10/20/50 MA Crossover | Leading the sell-off; weaker than Dow. |
-| **`$NVDA`** | **Bearish** | Neckline Support | Weekly Head & Shoulders is the key sector risk. |
-| **`$BTC`** | **Neutral** | 52% Drop Level | Completed crash; waiting for equities to follow. |
-| **`$VIX`** | **Bullish** | 200 MA | Bouncing off 200MA; signaling coming volatility. |
+| Ticker      | Bias        | Key Level to Watch       | Notes                                            |
+|:------------|:------------|:-------------------------|:-------------------------------------------------|
+| **`$DJI`**  | **Bearish** | Trendline Resistance     | "Fake" breakout; Diverging from Transports.      |
+| **`$SPX`**  | **Bearish** | Jan 29 High (Resistance) | Double Top potential; VIX divergence active.     |
+| **`$NDX`**  | **Bearish** | 10/20/50 MA Crossover    | Leading the sell-off; weaker than Dow.           |
+| **`$NVDA`** | **Bearish** | Neckline Support         | Weekly Head & Shoulders is the key sector risk.  |
+| **`$BTC`**  | **Neutral** | 52% Drop Level           | Completed crash; waiting for equities to follow. |
+| **`$VIX`**  | **Bullish** | 200 MA                   | Bouncing off 200MA; signaling coming volatility. |
