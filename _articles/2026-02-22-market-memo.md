@@ -3,7 +3,6 @@ layout: single
 title: "Investment Research Memo 02/22/2026"
 date: 2026-02-22
 author_profile: true
-
 ---
 
 # Investment Research Memo
