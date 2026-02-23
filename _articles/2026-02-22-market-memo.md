@@ -40,7 +40,6 @@ author_profile: true
 * **`$SPX` (S&P 500)**
     * **Price Levels:** Resistance: February high, 10-week MA, Upper channel boundary. Support: 100-day MA, 200-day MA, 200-week MA, and the April low (near the 78.6% Fibonacci retracement at roughly 5300).
     * **The Setup:** Chopping sideways in a Broadening Formation and developing a Head and Shoulders pattern. Rejection off the 10-week moving average confirms a bearish arrangement. It is currently attempting to bounce off the 100-period MA support, driven by short-term bullish MACD and RSI divergences on the 15-minute and 60-minute charts.
-    *
     * **Verdict:** Short bias.
 
 * **`$BTC` (Bitcoin)**
