@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Investment Research Memo: Impending Macro Top and Institutional Distribution
+**Date:** February 15, 2026
 
 ### 1. Executive Summary
 * **Market Bias:** Strongly Bearish

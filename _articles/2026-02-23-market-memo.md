@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Market Crash Warning: The AI Bubble Popping and Tariff-Driven Selloff
+**Date:** February 23, 2026
 
 ### 1. Executive Summary
 * **Market Bias:** Extremely Bearish

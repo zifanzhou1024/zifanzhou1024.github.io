@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Investment Research Memo
+**Date:** February 20, 2026
 
 ### 1. Executive Summary
 

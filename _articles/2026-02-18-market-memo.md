@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Investment Research Memo: Navigating the Top Fractal and Looming Macro Catalysts
+**Date:** February 18, 2026
 
 ### 1. Executive Summary
 * **Market Bias:** Bearish

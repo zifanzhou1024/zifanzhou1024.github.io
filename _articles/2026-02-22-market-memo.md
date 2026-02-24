@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Investment Research Memo
+**Date:** February 22, 2026
 
 ### 1. Executive Summary
 * **Market Bias:** Strongly Bearish
