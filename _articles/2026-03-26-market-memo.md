@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Investment Research Memo 03/26/2026"
+date: 2026-03-26
+author_profile: true
+---
 # Title: Geopolitics, Oil Shock, and Bear-Market Transition
 
 ---
