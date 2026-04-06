@@ -118,9 +118,9 @@ The implication is that many traders are still underestimating how damaging sust
     - Scenario 1: short-term bottom already occurred, and a 1–3 week bounce is underway
     - Scenario 2: current move is only **wave 4**, followed by **wave 5 lower**, then a bigger rally later
 - **Pattern descriptions**
-    - ` Chart Pattern] Double Top / Failed Breakout -> Breakdown -> Countertrend Rally into 10-week and 20-week resistance`
-    - ` Chart Pattern] Possible handle formation under prior highs`
-    - ` Chart Pattern] Possible slanted neckline head-and-shoulders if rebound stalls below key resistance`
+    - ` [Chart Pattern] Double Top / Failed Breakout -> Breakdown -> Countertrend Rally into 10-week and 20-week resistance`
+    - ` [Chart Pattern] Possible handle formation under prior highs`
+    - ` [Chart Pattern] Possible slanted neckline head-and-shoulders if rebound stalls below key resistance`
 - **Verdict:** **Wait / fade strength into resistance**
 
 ### **`$WTI` — Crude Oil**
@@ -345,17 +345,17 @@ The bullish oil thesis strengthens significantly if:
 
 ## 11. Consolidated Watchlist Table
 
-| Ticker | Bias | Key Level to Watch | Notes |
-| :--- | :--- | :--- | :--- |
-| **`$SPX`** | Bearish, tactical bounce | **200-day MA** | First key test for whether bounce can extend |
-| **`$SPX`** | Bearish | **6732** | 10-week MA; major rally target/resistance |
-| **`$SPX`** | Bearish | **6796** | 20-week MA; higher resistance |
-| **`$SPX`** | Bearish | Recent Monday low | Loss of that low strengthens next leg down |
-| **`$WTI`** | Bullish | **119** | Break above strengthens larger upside case |
-| **`$WTI`** | Bullish | **150 / 175 / 200** | Longer-term upside scenarios under escalation |
-| **`$VIX`** | Elevated risk regime | **23.87** | Still elevated despite one-day decline |
-| **`$DJI`** | Bearish | **50,000** | Psychological topping zone |
-| **`$NASDAQ`** | Bearish medium-term | Recent swing low / rebound resistance | Bounce possible, but broader trend still suspect |
+| Ticker        | Bias                     | Key Level to Watch                    | Notes                                            |
+|:--------------|:-------------------------|:--------------------------------------|:-------------------------------------------------|
+| **`$SPX`**    | Bearish, tactical bounce | **200-day MA**                        | First key test for whether bounce can extend     |
+| **`$SPX`**    | Bearish                  | **6732**                              | 10-week MA; major rally target/resistance        |
+| **`$SPX`**    | Bearish                  | **6796**                              | 20-week MA; higher resistance                    |
+| **`$SPX`**    | Bearish                  | Recent Monday low                     | Loss of that low strengthens next leg down       |
+| **`$WTI`**    | Bullish                  | **119**                               | Break above strengthens larger upside case       |
+| **`$WTI`**    | Bullish                  | **150 / 175 / 200**                   | Longer-term upside scenarios under escalation    |
+| **`$VIX`**    | Elevated risk regime     | **23.87**                             | Still elevated despite one-day decline           |
+| **`$DJI`**    | Bearish                  | **50,000**                            | Psychological topping zone                       |
+| **`$NASDAQ`** | Bearish medium-term      | Recent swing low / rebound resistance | Bounce possible, but broader trend still suspect |
 
 ---
 
