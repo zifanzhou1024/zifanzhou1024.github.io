@@ -37,7 +37,6 @@ The core analytical framework is a **2007–2008 style macro sequence**:
     - **Larger downside magnets:** 200-week moving average / 50-month moving average zone
 - **The Setup:** The transcript frames the latest move as a **counter-trend rebound after five straight down weeks**, not a durable bottom. The bullish near-term argument is simply that momentum got stretched enough to allow a bounce. The bearish argument is that the bounce is occurring into layered resistance and may form a **topping tail** or **momentum divergence** before the larger decline resumes.
 - **Pattern description:** Think of this as a **bear market rally into resistance**, where price rebounds sharply off oversold conditions, tags moving averages overhead, and then fails if macro catalysts disappoint.
-- ` Chart Pattern]`
 - **Verdict:** **Wait / sell strength rather than chase.**
 
 ### **`$NDX` / `$NASDAQ` — Nasdaq / Nasdaq 100**
@@ -48,7 +47,6 @@ The core analytical framework is a **2007–2008 style macro sequence**:
     - **Larger downside target in the transcript:** **200-week moving average near 18,000**
 - **The Setup:** The transcript emphasizes a **lower high / double-top type structure**, with momentum still fragile even after the rebound. The key question is whether this is a second-leg rebound into overhead resistance or whether the bounce already exhausted itself under the first resistance cluster.
 - **Pattern description:** This is a **failed breakout / double-top risk** setup, where a rebound back into prior breakdown zones can become the ideal area for sellers to regain control.
-- ` Chart Pattern]`
 - **Verdict:** **Fade rallies unless price can reclaim weekly resistance and hold it.**
 
 ### **`$WTI` — Crude Oil**
@@ -58,7 +56,6 @@ The core analytical framework is a **2007–2008 style macro sequence**:
     - **Tail-risk zone discussed by analysts:** **$150** if Hormuz disruption persists
 - **The Setup:** Oil is not just another chart here; it is the main macro transmission mechanism. If oil keeps holding elevated levels or spikes again, it strengthens the bearish inflation-and-growth mix that pressures equities.
 - **Pattern description:** An **event-driven breakout** tied to supply disruption, not a pure technical breakout.
-- ` Chart Pattern]`
 - **Verdict:** **Bullish oil is bearish for broad risk assets in this framework.**
 
 ### **`$BTC` — Bitcoin**
@@ -161,9 +158,6 @@ These are the details that materially strengthen the memo:
 - The macro calendar is concentrated enough that the market does not need to wait long for validation or invalidation of this thesis. ([federalreserve.gov](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm?utm_source=chatgpt.com))
 
 ## Bottom Line
-
-The expanded read is still the same at its core, but now more complete:
-
 - **Headline jobs were better than expected, but internals were weaker than they looked.**
 - **Oil is the key bridge from war to inflation to Fed paralysis to equity downside.**
 - **The rally can continue briefly, but it still looks more like a counter-trend bounce than a durable bottom.**
