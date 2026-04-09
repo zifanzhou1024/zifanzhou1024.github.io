@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Investment Research Memo 04/08/2026"
-date: 2026-04-08
+title: "Investment Research Memo 04/07/2026"
+date: 2026-04-07
 author_profile: true
 ---
 
@@ -121,6 +121,7 @@ But the larger trend remains bearish because:
 - the broader macro backdrop is unresolved
 
 **Pattern Description:**  
+` Chart Pattern]`  
 This is an **Adam and Eve double top**: a sharp high, then a rounded retest, followed by breakdown. The current rally is viewed as a typical **post-breakdown recovery rally**, not a new trend.
 
 **Verdict:** **Sell strength / short rallies**
@@ -408,6 +409,7 @@ The bearish view is meaningfully weakened if:
 - volatility breaks down materially
 
 ---
+
 
 ## 8. Consolidated Watchlist Table
 
