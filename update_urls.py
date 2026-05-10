@@ -39,7 +39,7 @@ def scan_directory(directory):
                 update_urls_in_file(file_path)
 
 if __name__ == "__main__":
-    base_path = '/home/sakura/zifanzhou1024.github.io'
+    base_path = os.path.dirname(os.path.abspath(__file__))
     
     for directory in directories:
         full_path = os.path.join(base_path, directory)

@@ -1,8 +1,7 @@
-
 ---
 title: 'NeRF Models'
 date: 2023-03-26
-permalink: /posts/2013/03/nerf-models/
+permalink: /posts/2023/03/nerf-models/
 tags:
   - NeRF Models 
   - Computer Vision
